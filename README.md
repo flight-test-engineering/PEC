@@ -1,6 +1,6 @@
 # PEC - Position Error Correction
 
-This directory contains the files used in the Position Error Correction Data Reduction series.
+This directory contains the files used in the Flight Test Position Error Correction Data Reduction series.
 
 Here are the links to the videos:
 
