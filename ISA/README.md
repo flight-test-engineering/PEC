@@ -10,4 +10,15 @@ The mini-series has 3 parts:
 
 The associated notebooks are in this repo.
 
+To install the ISA_module, download the wheel file (.whl) and run this command:
+
+```
+pip install isa_module-1.0-py3-none-any.whl
+```
+You can then
+```
+import ISA_module as ISA
+```
+and have all the functions available under the "ISA" namespace
+
 Enjoy!
